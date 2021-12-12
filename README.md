@@ -15,3 +15,7 @@ Im a 15 year old self taught programmer
 
 ## Im currently working on
 - My home page (*Not avilable yet*)
+
+## Other Skills
+- I also know English and Spanish (Attempting to Learn Japanese)
+- I also am good at Animation with After Effects and Design with Photoshop
