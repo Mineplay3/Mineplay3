@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 
+## Im Mineplay
+# Im a 15 year old self taught programmer
 
-<!--
-**Mineplay3/Mineplay3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Lenguages I know are 
+- Python
+- Html and Css
 
-Here are some ideas to get you started:
+## Im currently learning
+- ✨Javascript/typescript✨
+- ✨Dart✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I currently work at 
+- [Scandicaus](https://scandiac.us/) helping out on a project [KochoVN](https://www.kocho.io/)
+- I also work at [ActionAPI](https://actionapi.xyz/) *Well the project is mine but yeah lol*
+
+## Im currently working on
+- My home page (*Not avilable yet*)
