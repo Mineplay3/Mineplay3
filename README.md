@@ -1,6 +1,6 @@
 ### Hi there 👋 
-## Im Mineplay
-# Im a 15 year old self taught programmer
+Im Mineplay
+Im a 15 year old self taught programmer
 
 ## Lenguages I know are 
 - Python
