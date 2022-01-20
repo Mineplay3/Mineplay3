@@ -10,7 +10,7 @@ Im a 15 year old self taught programmer
 - ✨Dart✨
 
 ## I currently work at 
-- [Scandicaus](https://scandiac.us/) helping out on a project [KochoVN](https://www.kocho.io/)
+- [Scandicaus](https://scandiac.us/) helping out on a project [KochoVN](https://www.kocho.io/) and manage their events [KochoEvents](https://events.kocho.io/)
 - I also work at [ActionAPI](https://actionapi.xyz/) *Well the project is mine but yeah lol*
 
 ## Im currently working on
