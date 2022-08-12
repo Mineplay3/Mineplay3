@@ -15,9 +15,13 @@ Im a 16 year old self taught programmer
 - I am developing a discord bot named [Oney](https://top.gg/bot/944374817979785226) *its currently in beta*
 
 ## Im currently working on
-- Oney Bot https://top.gg/bot/944374817979785226
-- My home page (*Not avilable yet*)
+- My home page https://mineplay.lol/
+- Kickstream (Automates streaming assets plataform)
+
 
 ## Other Skills
 - I also know English and Spanish (Attempting to Learn Japanese)
 - I also am good at Animation with After Effects and Design with Photoshop
+
+## Projects 
+- ~Oney Bot~ (Decrapted)
