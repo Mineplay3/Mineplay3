@@ -5,11 +5,13 @@ Im a 17 year old self taught programmer
 - Python
 - Html and Css
 - Javascript and Typescript
+- Java
 
 ## Tools I know
 - MongoDB
 - Flask
 - Ngrok
+- Firebase
 
 ## Im currently learning
 - ✨Dart✨
@@ -19,7 +21,7 @@ Im a 17 year old self taught programmer
 - [Scandicaus](https://scandiac.us/) helping out on a project [KochoVN](https://www.kocho.io/) and manage their events [KochoEvents](https://events.kocho.io/)
 
 ## Im currently working on
-- My home page https://mineplay.lol/
+- My home page https://mineplay.lol/ (Not paying hosting)
 - Play4Tokens https://play4tokens.com/
 - Kickstream (Automates streaming assets plataform)
 - Ghostly - Discord Selfbot (https://discord.gg/KuGxHapUA5)
