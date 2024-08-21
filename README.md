@@ -31,7 +31,7 @@ Im a 18 year old self taught programmer currantly also studying Computer Science
 - I also know English and Spanish
 - I also am good at Animation with After Effects and Design with Photoshop
 
-
+_____________
 
 Visit my website at [mineplay.lol](https://mineplay.lol/)    
 
