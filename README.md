@@ -22,11 +22,11 @@ Im a 18 year old self taught programmer currantly also studying Computer Science
 
 ## I am currently 
 - work at [Scandicaus](https://scandiac.us/) helping out on a project [KochoVN](https://www.kocho.io/)
-- getting a degree for Computer sience in Purdue
+- getting a degree in Computer sience at Purdue
 
-## Im currently working on
-- My home page https://mineplay.lol/ (Currently changing hosing to self hosted)
-- Getting projects ideas
+## I am currently working on
+- My home page https://mineplay.lol/ 
+- Getting project ideas
 
 ## Other Skills
 - I also know English and Spanish
