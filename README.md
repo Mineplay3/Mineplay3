@@ -16,6 +16,7 @@ Im a 18 year old self taught programmer currantly also studying Computer Science
 - Linux
 
 ## Im currently learning
+- ✨PostgreSQL ✨ 
 - ✨Dart✨
 - ✨C++✨
 
