@@ -1,5 +1,5 @@
 ### Hi there 👋 Im Mineplay
-Im a 18 year old self taught programmer currantly also studying Computer Science
+Im a 19 year old self taught programmer currantly also studying Computer Science
 
 ## Lenguages I know are 
 - Python
