@@ -34,6 +34,6 @@ Im a 19 year old self taught programmer currantly also studying Computer Science
 
 _____________
 
-Visit my website at [mineplay.lol](https://mineplay.lol/)    
+Visit my website at [mineplay.lol](https://mineplay.lol/)    *(Currently down)*
 
-Or contact me through my work email [mineplay3@proton.me](mailto:mineplay3@proton.me)
+Or contact me through my work email [contact@mineplay.lol](mailto:contact@mineplay.lol)
