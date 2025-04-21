@@ -1,5 +1,5 @@
 ### Hi there 👋 Im Mineplay
-Im a 19 year old self taught programmer currantly also studying Computer Science
+Im a 19 year old self taught programmer currantly also studying Computer Engineering at Purdue University
 
 ## Lenguages I know are 
 - Python
@@ -20,12 +20,9 @@ Im a 19 year old self taught programmer currantly also studying Computer Science
 - ✨C++✨
 
 ## I am currently 
-- work at [Scandicaus](https://scandiac.us/) helping out on a project [KochoVN](https://www.kocho.io/)
-- getting a degree in Computer sience at Purdue
-
-## I am currently working on
-- My home page https://mineplay.lol/ 
-- Getting project ideas
+- working ona visual novel creator for mobile devices [Kohana](https://kohana.live/)
+- getting a degree in Computer Engineering
+- working on a Calorie tracker made for Purdue students [Boilertrack](https://boilertrack.com)
 
 ## Other Skills
 - I also know English and Spanish
